@@ -15,7 +15,7 @@ function Invoices() {
               <img src={AvatarImage} alt="" />
             </Avatar>
             <TextContainer>
-              <Title>Alexander Williams</Title>
+              <Title>Alex Willian</Title>
               <SubTitle>ABC Holdings</SubTitle>
             </TextContainer>
           </Info>
